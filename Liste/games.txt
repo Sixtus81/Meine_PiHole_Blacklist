@@ -36,3 +36,19 @@ gamaverse.com
 www.gamaverse.com
 fog.com
 www.fog.com
+# YouTube-Sperre
+youtube.com
+www.youtube.com
+m.youtube.com
+youtube.de
+youtu.be
+googlevideo.com
+*.googlevideo.com
+youtubei.googleapis.com
+youtube.googleapis.com
+ytimg.com
+*.ytimg.com
+yt3.ggpht.com
+*.yt3.ggpht.com
+youtubeembeddedplayer.googleapis.com
+youtube-nocookie.com
