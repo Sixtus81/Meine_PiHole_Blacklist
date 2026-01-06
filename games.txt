@@ -1,0 +1,38 @@
+# Pi-hole Blockliste – Spieleseiten
+# gepflegt von Christian
+# letzte Änderung: 2026-01-06
+
+poki.com
+www.poki.com
+crazygames.com
+www.crazygames.com
+coolmathgames.com
+www.coolmathgames.com
+kongregate.com
+www.kongregate.com
+addictinggames.com
+www.addictinggames.com
+y8.com
+www.y8.com
+agame.com
+www.agame.com
+1001juegos.com
+www.1001juegos.com
+playhop.com
+www.playhop.com
+lagged.com
+www.lagged.com
+gameforge.com
+www.gameforge.com
+kizi.com
+www.kizi.com
+newgrounds.com
+www.newgrounds.com
+miniplay.com
+www.miniplay.com
+armorgames.com
+www.armorgames.com
+gamaverse.com
+www.gamaverse.com
+fog.com
+www.fog.com
